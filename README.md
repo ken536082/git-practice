@@ -1,5 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更
-ニューフィーチャーブランチで変更
-fast-forwordで変更
+conflictで変更
